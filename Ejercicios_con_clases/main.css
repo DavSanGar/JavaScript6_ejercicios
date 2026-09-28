@@ -1,0 +1,17 @@
+body {
+  background: linear-gradient(
+    to right,
+    red 10%,
+    white 20%,
+    red 30%,
+    red 40%,
+    white 50%,
+    red 60%,
+    red 70%,
+    white 80%,
+    red 90%,
+    white 100%
+  );
+  color: blue;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+}
